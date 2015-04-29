@@ -1,107 +1,14 @@
-The Project Gutenberg E-text of Frankenstein, by Mary Wollstonecraft
-(Godwin) Shelley
-=====================================================================================
+:TOC:
 
--------------------------------------------------------------------------
-
-Project Gutenberg's Frankenstein, by Mary Wollstonecraft (Godwin) Shelley
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
+= Frankenstein, or the Modern Prometheus
+By Mary Wollstonecraft (Godwin) Shelley
 
 
-Title: Frankenstein
-       or The Modern Prometheus
-
-Author: Mary Wollstonecraft (Godwin) Shelley
-
-Release Date: June 17, 2008 [EBook #84]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK FRANKENSTEIN ***
-
-
-
-
-Produced by Judith Boss, Christy Phillips, Lynn Hanninen,
-and David Meltzer. HTML version by Al Haines.
-
-
-
-
-
--------------------------------------------------------------------------
-
- +
- +
-
-Frankenstein,
--------------
-
-or the Modern Prometheus
-~~~~~~~~~~~~~~~~~~~~~~~~
-
- +
-
-by
-^^
-
-Mary Wollstonecraft (Godwin) Shelley
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
- +
- +
- +
-
-CONTENTS
-~~~~~~~~
-
- +
-
-[cols=",,,",]
-|=======================================================================
-|link:#letter1[Letter 1] |link:#letter2[Letter 2] |link:#letter3[Letter
-3] |link:#letter4[Letter 4]
-|=======================================================================
-
- +
-
-[cols=",,,",]
-|=======================================================================
-|link:#chap01[Chapter 1] |link:#chap02[Chapter 2] |link:#chap03[Chapter
-3] |link:#chap04[Chapter 4]
-
-|link:#chap05[Chapter 5] |link:#chap06[Chapter 6] |link:#chap07[Chapter
-7] |link:#chap08[Chapter 8]
-
-|link:#chap09[Chapter 9] |link:#chap10[Chapter 10] |link:#chap11[Chapter
-11] |link:#chap12[Chapter 12]
-
-|link:#chap13[Chapter 13] |link:#chap14[Chapter 14]
-|link:#chap15[Chapter 15] |link:#chap16[Chapter 16]
-
-|link:#chap17[Chapter 17] |link:#chap18[Chapter 18]
-|link:#chap19[Chapter 19] |link:#chap20[Chapter 20]
-
-|link:#chap21[Chapter 21] |link:#chap22[Chapter 22]
-|link:#chap23[Chapter 23] |link:#chap24[Chapter 24]
-|=======================================================================
-
- +
- +
- +
-
-Letter 1
-^^^^^^^^
-
-St. Petersburgh, Dec. 11th, 17— +
- +
- TO Mrs. Saville, England
+== Letter 1
+[quote, Your affectionate brother, R. Walton]
+____
+St. Petersburgh, Dec. 11th, 17-
+To Mrs. Saville, England
 
 You will rejoice to hear that no disaster has accompanied the
 commencement of an enterprise which you have regarded with such evil
@@ -207,21 +114,14 @@ may meet. If I fail, you will see me again soon, or never. Farewell, my
 dear, excellent Margaret. Heaven shower down blessings on you, and save
 me, that I may again and again testify my gratitude for all your love
 and kindness.
+____
 
-Your affectionate brother,     R. Walton +
+== Letter 2
 
- +
- +
- +
-
-Letter 2
-^^^^^^^^
-
- +
-
-Archangel, 28th March, 17— +
- +
- To Mrs. Saville, England
+[quote, Your affectionate brother, Robert Walton]
+____
+Archangel, 28th March, 17—
+To Mrs. Saville, England
 
 How slowly the time passes here, encompassed as I am by frost and snow!
 Yet a second step is taken towards my enterprise. I have hired a vessel
@@ -331,21 +231,14 @@ the present to write to me by every opportunity: I may receive your
 letters on some occasions when I need them most to support my spirits. I
 love you very tenderly. Remember me with affection, should you never
 hear from me again.
+____
 
-Your affectionate brother, Robert Walton +
+== Letter 3
 
- +
- +
- +
-
-Letter 3
-^^^^^^^^
-
- +
-
-July 7th, 17— +
- +
- To Mrs. Saville, England
+[quote, R.W.]
+____
+July 7th, 17—
+To Mrs. Saville, England
 
 My dear Sister,
 
@@ -378,21 +271,16 @@ determined heart and resolved will of man?
 
 My swelling heart involuntarily pours itself out thus. But I must
 finish. Heaven bless my beloved sister!
+____
 
-R.W.
 
- +
- +
- +
+== Letter 4
 
-Letter 4
-^^^^^^^^
+[quote]
+____
+August 5th, 17—
 
- +
-
-August 5th, 17— +
- +
- To Mrs. Saville, England
+To Mrs. Saville, England
 
 So strange an accident has happened to us that I cannot forbear
 recording it, although it is very probable that you will see me before
@@ -527,9 +415,10 @@ happy to have possessed as the brother of my heart.
 
 I shall continue my journal concerning the stranger at intervals, should
 I have any fresh incidents to record.
+____
 
- +
-
+[quote]
+____
 August 13th, 17—
 
 My affection for my guest increases every day. He excites at once my
@@ -604,9 +493,10 @@ believe it to be an intuitive discernment, a quick but never-failing
 power of judgment, a penetration into the causes of things, unequalled
 for clearness and precision; add to this a facility of expression and a
 voice whose varied intonations are soul-subduing music.
+____
 
- +
-
+[quote]
+____
 August 19, 17—
 
 Yesterday the stranger said to me, "You may easily perceive, Captain
@@ -657,13 +547,10 @@ irradiated by the soul within.
 
 Strange and harrowing must be his story, frightful the storm which
 embraced the gallant vessel on its course and wrecked it—thus!
+____
 
- +
- +
- +
 
-Chapter 1
-^^^^^^^^^
+== Chapter 1
 
 I am by birth a Genevese, and my family is one of the most distinguished
 of that republic. My ancestors had been for many years counsellors and
@@ -819,12 +706,9 @@ familiarly by the name of cousin. No word, no expression could body
 forth the kind of relation in which she stood to me—my more than sister,
 since till death she was to be mine only.
 
- +
- +
- +
 
-Chapter 2
-^^^^^^^^^
+== Chapter 2
+
 
 We were brought up together; there was not quite a year difference in
 our ages. I need not say that we were strangers to any species of
@@ -1027,12 +911,9 @@ It was a strong effort of the spirit of good, but it was ineffectual.
 Destiny was too potent, and her immutable laws had decreed my utter and
 terrible destruction.
 
- +
- +
- +
 
-Chapter 3
-^^^^^^^^^
+== Chapter 3
+
 
 When I had attained the age of seventeen my parents resolved that I
 should become a student at the university of Ingolstadt. I had hitherto
@@ -1277,12 +1158,9 @@ requested, and I took my leave.
 
 Thus ended a day memorable to me; it decided my future destiny.
 
- +
- +
- +
 
-Chapter 4
-^^^^^^^^^
+== Chapter 4
+
 
 From this day natural philosophy, and particularly chemistry, in the
 most comprehensive sense of the term, became nearly my sole occupation.
@@ -1509,12 +1387,9 @@ labours would soon end, and I believed that exercise and amusement would
 then drive away incipient disease; and I promised myself both of these
 when my creation should be complete.
 
- +
- +
- +
 
-Chapter 5
-^^^^^^^^^
+== Chapter 5
+
 
 It was on a dreary night of November that I beheld the accomplishment of
 my toils. With an anxiety that almost amounted to agony, I collected the
@@ -1596,18 +1471,18 @@ streets without any clear conception of where I was or what I was doing.
 My heart palpitated in the sickness of fear, and I hurried on with
 irregular steps, not daring to look about me:
 
- +
 
-Like one who, on a lonely road, +
- Doth walk in fear and dread, +
- And, having once turned round, walks on, +
- And turns no more his head; +
- Because he knows a frightful fiend +
- Doth close behind him tread. +
- +
- [Coleridge's "Ancient Mariner."] +
+[verse, Coleridge's "Ancient Mariner."]
+____
+Like one who, on a lonely road,
+ Doth walk in fear and dread,
+ And, having once turned round, walks on,
+ And turns no more his head;
+ Because he knows a frightful fiend
+ Doth close behind him tread.
+____
 
- +
+
 
 Continuing thus, I came at length opposite to the inn at which the
 various diligences and carriages usually stopped. Here I paused, I knew
@@ -1746,19 +1621,19 @@ so deserving of my love?"
 see a letter that has been lying here some days for you; it is from your
 cousin, I believe."
 
- +
- +
- +
 
-Chapter 6
-^^^^^^^^^
+== Chapter 6
+
 
 Clerval then put the following letter into my hands. It was from my own
 Elizabeth:
 
-"My dearest Cousin,
+[quote, Elizabeth Lavenza.]
+____
+Geneva, March 18, 17—.
+My dearest Cousin,
 
-"You have been ill, very ill, and even the constant letters of dear kind
+You have been ill, very ill, and even the constant letters of dear kind
 Henry are not sufficient to reassure me on your account. You are
 forbidden to write—to hold a pen; yet one word from you, dear Victor, is
 necessary to calm our apprehensions. For a long time I have thought that
@@ -1773,7 +1648,7 @@ cousin. Yet that is over now: Clerval writes that indeed you are getting
 better. I eagerly hope that you will confirm this intelligence soon in
 your own handwriting.
 
-"Get well—and return to us. You will find a happy, cheerful home and
+Get well—and return to us. You will find a happy, cheerful home and
 friends who love you dearly. Your father's health is vigorous, and he
 asks but to see you, but to be assured that you are well; and not a care
 will ever cloud his benevolent countenance. How pleased you would be to
@@ -1787,7 +1662,7 @@ spent in the open air, climbing the hills or rowing on the lake. I fear
 that he will become an idler unless we yield the point and permit him to
 enter on the profession which he has selected.
 
-"Little alteration, except the growth of our dear children, has taken
+Little alteration, except the growth of our dear children, has taken
 place since you left us. The blue lake and snow-clad mountains—they
 never change; and I think our placid home and our contented hearts are
 regulated by the same immutable laws. My trifling occupations take up my
@@ -1811,7 +1686,7 @@ and England. Justine, thus received in our family, learned the duties of
 a servant, a condition which, in our fortunate country, does not include
 the idea of ignorance and a sacrifice of the dignity of a human being.
 
-"Justine, you may remember, was a great favourite of yours; and I
+Justine, you may remember, was a great favourite of yours; and I
 recollect you once remarked that if you were in an ill humour, one
 glance from Justine could dissipate it, for the same reason that Ariosto
 gives concerning the beauty of Angelica—she looked so frank-hearted and
@@ -1826,12 +1701,12 @@ attention to every gesture of my aunt. She thought her the model of all
 excellence and endeavoured to imitate her phraseology and manners, so
 that even now she often reminds me of her.
 
-"When my dearest aunt died every one was too much occupied in their own
+When my dearest aunt died every one was too much occupied in their own
 grief to notice poor Justine, who had attended her during her illness
 with the most anxious affection. Poor Justine was very ill; but other
 trials were reserved for her.
 
-"One by one, her brothers and sister died; and her mother, with the
+One by one, her brothers and sister died; and her mother, with the
 exception of her neglected daughter, was left childless. The conscience
 of the woman was troubled; she began to think that the deaths of her
 favourites was a judgement from heaven to chastise her partiality. She
@@ -1853,14 +1728,14 @@ She is very clever and gentle, and extremely pretty; as I mentioned
 before, her mien and her expression continually remind me of my dear
 aunt.
 
-"I must say also a few words to you, my dear cousin, of little darling
+I must say also a few words to you, my dear cousin, of little darling
 William. I wish you could see him; he is very tall of his age, with
 sweet laughing blue eyes, dark eyelashes, and curling hair. When he
 smiles, two little dimples appear on each cheek, which are rosy with
 health. He has already had one or two little WIVES, but Louisa Biron is
 his favourite, a pretty little girl of five years of age.
 
-"Now, dear Victor, I dare say you wish to be indulged in a little gossip
+Now, dear Victor, I dare say you wish to be indulged in a little gossip
 concerning the good people of Geneva. The pretty Miss Mansfield has
 already received the congratulatory visits on her approaching marriage
 with a young Englishman, John Melbourne, Esq. Her ugly sister, Manon,
@@ -1871,17 +1746,14 @@ spirits, and is reported to be on the point of marrying a lively pretty
 Frenchwoman, Madame Tavernier. She is a widow, and much older than
 Manoir; but she is very much admired, and a favourite with everybody.
 
-"I have written myself into better spirits, dear cousin; but my anxiety
+I have written myself into better spirits, dear cousin; but my anxiety
 returns upon me as I conclude. Write, dearest Victor,—one line—one word
 will be a blessing to us. Ten thousand thanks to Henry for his kindness,
 his affection, and his many letters; we are sincerely grateful. Adieu!
 my cousin; take care of your self; and, I entreat you, write!
+____
 
-"Elizabeth Lavenza.
 
-"Geneva, March 18, 17—."
-
- +
 
 "Dear, dear Elizabeth!" I exclaimed, when I had read her letter: "I will
 write instantly and relieve them from the anxiety they must feel." I
@@ -2008,16 +1880,16 @@ peasants were dancing, and every one we met appeared gay and happy. My
 own spirits were high, and I bounded along with feelings of unbridled
 joy and hilarity.
 
- +
- +
- +
 
-Chapter 7
-^^^^^^^^^
+== Chapter 7
+
 
 On my return, I found the following letter from my father:—
 
- +
+[quote, Your affectionate and afflicted father, Alphonse Frankenstein.]
+____
+
+"Geneva, May 12th, 17—."
 
 "My dear Victor,
 
@@ -2086,11 +1958,7 @@ but with feelings of peace and gentleness, that will heal, instead of
 festering, the wounds of our minds. Enter the house of mourning, my
 friend, but with kindness and affection for those who love you, and not
 with hatred for your enemies.
-
-"Your affectionate and afflicted father, +
-      "Alphonse Frankenstein. +
- +
- "Geneva, May 12th, 17—."
+____
 
 Clerval, who had watched my countenance as I read this letter, was
 surprised to observe the despair that succeeded the joy I at first
@@ -2369,12 +2237,9 @@ despairing." She wept.
 believe, innocent, rely on the justice of our laws, and the activity
 with which I shall prevent the slightest shadow of partiality."
 
- +
- +
- +
 
-Chapter 8
-^^^^^^^^^
+== Chapter 8
+
 
 We passed a few sad hours until eleven o'clock, when the trial was to
 commence. My father and the rest of the family being obliged to attend
@@ -2670,12 +2535,9 @@ Thus spoke my prophetic soul, as, torn by remorse, horror, and despair,
 I beheld those I loved spend vain sorrow upon the graves of William and
 Justine, the first hapless victims to my unhallowed arts.
 
- +
- +
- +
 
-Chapter 9
-^^^^^^^^^
+== Chapter 9
+
 
 Nothing is more painful to the human mind than, after the feelings have
 been worked up by a quick succession of events, the dead calmness of
@@ -2874,12 +2736,9 @@ acted as a lullaby to my too keen sensations; when I placed my head upon
 my pillow, sleep crept over me; I felt it as it came and blessed the
 giver of oblivion.
 
- +
- +
- +
 
-Chapter 10
-^^^^^^^^^^
+== Chapter 10
+
 
 I spent the following day roaming through the valley. I stood beside the
 sources of the Arveiron, which take their rise in a glacier, that with
@@ -2943,18 +2802,19 @@ our impulses were confined to hunger, thirst, and desire, we might be
 nearly free; but now we are moved by every wind that blows and a chance
 word or scene that that word may convey to us.
 
- +
 
-We rest; a dream has power to poison sleep. +
-      We rise; one wand'ring thought pollutes the day. +
- We feel, conceive, or reason; laugh or weep, +
-      Embrace fond woe, or cast our cares away; +
- It is the same: for, be it joy or sorrow, +
-      The path of its departure still is free. +
- Man's yesterday may ne'er be like his morrow; +
-      Nought may endure but mutability! +
+[verse]
+____
+We rest; a dream has power to poison sleep.
+      We rise; one wand'ring thought pollutes the day.
+ We feel, conceive, or reason; laugh or weep,
+      Embrace fond woe, or cast our cares away;
+ It is the same: for, be it joy or sorrow,
+      The path of its departure still is free.
+ Man's yesterday may ne'er be like his morrow;
+      Nought may endure but mutability!
+____
 
- +
 
 It was nearly noon when I arrived at the top of the ascent. For some
 time I sat upon the rock that overlooks the sea of ice. A mist covered
@@ -3098,12 +2958,9 @@ hut, the fiend with an air of exultation, I with a heavy heart and
 depressed spirits. But I consented to listen, and seating myself by the
 fire which my odious companion had lighted, he thus began his tale.
 
- +
- +
- +
 
-Chapter 11
-^^^^^^^^^^
+== Chapter 11
+
 
 "It is with considerable difficulty that I remember the original era of
 my being; all the events of that period appear confused and indistinct.
@@ -3361,12 +3218,9 @@ letters.
 "The family, after having been thus occupied for a short time,
 extinguished their lights and retired, as I conjectured, to rest."
 
- +
- +
- +
 
-Chapter 12
-^^^^^^^^^^
+== Chapter 12
+
 
 "I lay on my straw, but I could not sleep. I thought of the occurrences
 of the day. What chiefly struck me was the gentle manners of these
@@ -3566,12 +3420,9 @@ spirits were elevated by the enchanting appearance of nature; the past
 was blotted from my memory, the present was tranquil, and the future
 gilded by bright rays of hope and anticipations of joy."
 
- +
- +
- +
 
-Chapter 13
-^^^^^^^^^^
+== Chapter 13
+
 
 "I now hasten to the more moving part of my story. I shall relate events
 that impressed me with feelings which, from what I had been, have made
@@ -3770,12 +3621,9 @@ of indignation, delight, and wonder, but which all terminated in
 additional love and reverence for my protectors (for so I loved, in an
 innocent, half-painful self-deceit, to call them)."
 
- +
- +
- +
 
-Chapter 14
-^^^^^^^^^^
+== Chapter 14
+
 
 "Some time elapsed before I learned the history of my friends. It was
 one which could not fail to impress itself deeply on my mind, unfolding
@@ -3954,12 +3802,9 @@ they were bound, and after her death the woman of the house in which
 they had lived took care that Safie should arrive in safety at the
 cottage of her lover."
 
- +
- +
- +
 
-Chapter 15
-^^^^^^^^^^
+== Chapter 15
+
 
 "Such was the history of my beloved cottagers. It impressed me deeply. I
 learned, from the views of social life which it developed, to admire
@@ -4258,12 +4103,9 @@ him on the point of repeating his blow, when, overcome by pain and
 anguish, I quitted the cottage, and in the general tumult escaped
 unperceived to my hovel."
 
- +
- +
- +
 
-Chapter 16
-^^^^^^^^^^
+== Chapter 16
+
 
 "Cursed, cursed creator! Why did I live? Why, in that instant, did I not
 extinguish the spark of existence which you had so wantonly bestowed? I
@@ -4569,12 +4411,9 @@ will not associate with me; but one as deformed and horrible as myself
 would not deny herself to me. My companion must be of the same species
 and have the same defects. This being you must create."
 
- +
- +
- +
 
-Chapter 17
-^^^^^^^^^^
+== Chapter 17
+
 
 The being finished speaking and fixed his looks upon me in the
 expectation of a reply. But I was bewildered, perplexed, and unable to
@@ -4752,12 +4591,9 @@ prospect of such an occupation made every other circumstance of
 existence pass before me like a dream, and that thought only had to me
 the reality of life.
 
- +
- +
- +
 
-Chapter 18
-^^^^^^^^^^
+== Chapter 18
+
 
 Day after day, week after week, passed away on my return to Geneva; and
 I could not collect the courage to recommence my work. I feared the
@@ -4987,20 +4823,21 @@ human sympathies were not sufficient to satisfy his eager mind. The
 scenery of external nature, which others regard only with admiration, he
 loved with ardour:—
 
- +
 
-——The sounding cataract +
- Haunted him like a passion: the tall rock, +
- The mountain, and the deep and gloomy wood, +
- Their colours and their forms, were then to him +
- An appetite; a feeling, and a love, +
- That had no need of a remoter charm, +
- By thought supplied, or any interest +
- Unborrow'd from the eye. +
- +
- [Wordsworth's "Tintern Abbey".] +
 
- +
+[verse, Wordsworth's "Tintern Abbey]
+____
+ The sounding cataract
+ Haunted him like a passion: the tall rock,
+ The mountain, and the deep and gloomy wood,
+ Their colours and their forms, were then to him
+ An appetite; a feeling, and a love,
+ That had no need of a remoter charm,
+ By thought supplied, or any interest
+ Unborrow'd from the eye.
+____
+
+
 
 And where does he now exist? Is this gentle and lovely being lost
 forever? Has this mind, so replete with ideas, imaginations fanciful and
@@ -5030,12 +4867,9 @@ heard of even in my country.
 At length we saw the numerous steeples of London, St. Paul's towering
 above all, and the Tower famed in English history.
 
- +
- +
- +
 
-Chapter 19
-^^^^^^^^^^
+== Chapter 19
+
 
 London was our present point of rest; we determined to remain several
 months in this wonderful and celebrated city. Clerval desired the
@@ -5276,12 +5110,9 @@ hope, which I dared not trust myself to question but which was
 intermixed with obscure forebodings of evil that made my heart sicken in
 my bosom.
 
- +
- +
- +
 
-Chapter 20
-^^^^^^^^^^
+== Chapter 20
+
 
 I sat one evening in my laboratory; the sun had set, and the moon was
 just rising from the sea; I had not sufficient light for my employment,
@@ -5602,12 +5433,9 @@ must pause here, for it requires all my fortitude to recall the memory
 of the frightful events which I am about to relate, in proper detail, to
 my recollection.
 
- +
- +
- +
 
-Chapter 21
-^^^^^^^^^^
+== Chapter 21
+
 
 I was soon introduced into the presence of the magistrate, an old
 benevolent man with calm and mild manners. He looked upon me, however,
@@ -5952,12 +5780,9 @@ irresistible, disastrous future imparted to me a kind of calm
 forgetfulness, of which the human mind is by its structure peculiarly
 susceptible.
 
- +
- +
- +
 
-Chapter 22
-^^^^^^^^^^
+== Chapter 22
+
 
 The voyage came to an end. We landed, and proceeded to Paris. I soon
 found that I had overtaxed my strength and that I must repose before I
@@ -6029,8 +5854,9 @@ were calmer and more composed than they had ever been since my journey
 to the sea of ice. A few days before we left Paris on our way to
 Switzerland, I received the following letter from Elizabeth:
 
- +
-
+[quote, Elizabeth Lavenza]
+____
+"Geneva, May 18th, 17—"
 "My dear Friend,
 
 "It gave me the greatest pleasure to receive a letter from my uncle
@@ -6090,12 +5916,8 @@ day, or even until you come, if it will give you pain. My uncle will
 send me news of your health, and if I see but one smile on your lips
 when we meet, occasioned by this or any other exertion of mine, I shall
 need no other happiness.
+____
 
-"Elizabeth Lavenza +
- +
- "Geneva, May 18th, 17—" +
-
- +
 
 This letter revived in my memory what I had before forgotten, the threat
 of the fiend—"I WILL BE WITH YOU ON YOUR WEDDING-NIGHT!" Such was my
@@ -6288,12 +6110,9 @@ sun sank beneath the horizon as we landed, and as I touched the shore I
 felt those cares and fears revive which soon were to clasp me and cling
 to me forever.
 
- +
- +
- +
 
-Chapter 23
-^^^^^^^^^^
+== Chapter 23
+
 
 It was eight o'clock when we landed; we walked for a short time on the
 shore, enjoying the transitory light, and then retired to the inn and
@@ -6528,12 +6347,9 @@ you know not what it is you say."
 I broke from the house angry and disturbed and retired to meditate on
 some other mode of action.
 
- +
- +
- +
 
-Chapter 24
-^^^^^^^^^^
+== Chapter 24
+
 
 My present situation was one in which all voluntary thought was
 swallowed up and lost. I was hurried away by fury; revenge alone endowed
@@ -6799,14 +6615,10 @@ Clerval, Elizabeth, my father, and of the wretched Victor, and thrust
 your sword into his heart. I will hover near and direct the steel
 aright.
 
- +
-
-Walton, in continuation. +
- +
- +
- August 26th, 17— +
-
- +
+[quote]
+____
+Walton, in continuation.
+August 26th, 17—
 
 You have read this strange and terrific story, Margaret; and do you not
 feel your blood congeal with horror, like that which even now curdles
@@ -6911,14 +6723,13 @@ high undertaking or design, fraught with extensive utility to my fellow
 creatures, then could I live to fulfil it. But such is not my destiny; I
 must pursue and destroy the being to whom I gave existence; then my lot
 on earth will be fulfilled and I may die."
+____
 
- +
- +
- +
+[quote]
+____
+September 2nd
 
-September 2nd +
- +
- My beloved Sister,
+My beloved Sister,
 
 I write to you, encompassed by peril and ignorant whether I am ever
 doomed to see again dear England and the dearer friends that inhabit it.
@@ -6950,13 +6761,12 @@ vast mountains of ice are mole-hills which will vanish before the
 resolutions of man. These feelings are transitory; each day of
 expectation delayed fills them with fear, and I almost dread a mutiny
 caused by this despair.
+____
 
- +
- +
 
+[quote]
+____
 September 5th
-
- +
 
 A scene has just passed of such uncommon interest that, although it is
 highly probable that these papers may never reach you, yet I cannot
@@ -7029,30 +6839,29 @@ How all this will terminate, I know not, but I had rather die than
 return shamefully, my purpose unfulfilled. Yet I fear such will be my
 fate; the men, unsupported by ideas of glory and honour, can never
 willingly continue to endure their present hardships.
+____
 
- +
- +
 
+[quote]
+____
 September 7th
-
- +
 
 The die is cast; I have consented to return if we are not destroyed.
 Thus are my hopes blasted by cowardice and indecision; I come back
 ignorant and disappointed. It requires more philosophy than I possess to
 bear this injustice with patience.
+____
 
- +
- +
 
+[quote]
+____
 September 12th
-
- +
 
 It is past; I am returning to England. I have lost my hopes of utility
 and glory; I have lost my friend. But I will endeavour to detail these
 bitter circumstances to you, my dear sister; and while I am wafted
 towards England and towards you, I will not despond.
+____
 
 September 9th, the ice began to move, and roarings like thunder were
 heard at a distance as the islands split and cracked in every direction.
@@ -7324,380 +7133,4 @@ He sprang from the cabin window as he said this, upon the ice raft which
 lay close to the vessel. He was soon borne away by the waves and lost in
 darkness and distance.
 
- +
- +
- +
- +
 
--------------------------------------------------------------------------
-
-
-
-
-
-End of the Project Gutenberg EBook of Frankenstein, by 
-Mary Wollstonecraft (Godwin) Shelley
-
-*** END OF THIS PROJECT GUTENBERG EBOOK FRANKENSTEIN ***
-
-***** This file should be named 84-h.htm or 84-h.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/8/84/
-
-Produced by Judith Boss, Christy Phillips, Lynn Hanninen,
-and David Meltzer. HTML version by Al Haines.
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.net/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, is critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including including checks, online payments and credit card
-donations.  To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.net
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
--------------------------------------------------------------------------
