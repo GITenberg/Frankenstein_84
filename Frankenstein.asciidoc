@@ -1,8 +1,7 @@
-:TOC:
-
 = Frankenstein, or the Modern Prometheus
-By Mary Wollstonecraft (Godwin) Shelley
+Mary Wollstonecraft (Godwin) Shelley
 
+:toc:
 
 == Letter 1
 [quote, Your affectionate brother, R. Walton]
