@@ -29,7 +29,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 == Letter 1
 [quote, Your affectionate brother, R. Walton]
 ____
-St. Petersburgh, Dec. 11th, 17-
+St. Petersburgh, Dec. 11th, 17- +
 To Mrs. Saville, England
 
 You will rejoice to hear that no disaster has accompanied the
@@ -142,7 +142,7 @@ ____
 
 [quote, Your affectionate brother, Robert Walton]
 ____
-Archangel, 28th March, 17—
+Archangel, 28th March, 17— +
 To Mrs. Saville, England
 
 How slowly the time passes here, encompassed as I am by frost and snow!
@@ -259,7 +259,7 @@ ____
 
 [quote, R.W.]
 ____
-July 7th, 17—
+July 7th, 17— +
 To Mrs. Saville, England
 
 My dear Sister,
@@ -300,8 +300,7 @@ ____
 
 [quote]
 ____
-August 5th, 17—
-
+August 5th, 17— +
 To Mrs. Saville, England
 
 So strange an accident has happened to us that I cannot forbear
