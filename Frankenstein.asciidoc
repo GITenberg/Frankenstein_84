@@ -1,7 +1,30 @@
 = Frankenstein, or the Modern Prometheus
 Mary Wollstonecraft (Godwin) Shelley
-
+v0.0.1
 :toc:
+
+
+[colophon]
+== Copyright
+
+This edition of _The Adventures of Sherlock Holmes_ is maintained, archived, and curated as part of
+the GITENBERG PROJECT.
+
+This work is in the public domain.
+
+If you find any issues with this work, please report them at
+https://github.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/issues
+
++
+
+Cover provided by Recovering the Classics
+
+Artist: Gareth Graham, (C) 2013
+
+
+Made available under a Creative Commons Attribution-NonCommercial 4.0 license
+
+https://creativecommons.org/licenses/by-nc/4.0/
 
 == Letter 1
 [quote, Your affectionate brother, R. Walton]
