@@ -7,13 +7,13 @@ v0.0.1
 [colophon]
 == Copyright
 
-This edition of _The Adventures of Sherlock Holmes_ is maintained, archived, and curated as part of
+This edition of _Frankenstein, or the Modern Prometheus_ is maintained, archived, and curated as part of
 the GITENBERG PROJECT.
 
 This work is in the public domain.
 
 If you find any issues with this work, please report them at
-https://github.com/GITenberg/The-Adventures-of-Sherlock-Holmes_1661/issues
+https://github.com/GITenberg/Frankenstein_84/issues
 
 +
 
