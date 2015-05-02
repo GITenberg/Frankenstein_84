@@ -1,6 +1,6 @@
 = Frankenstein, or the Modern Prometheus
 Mary Wollstonecraft (Godwin) Shelley
-v0.0.2
+v0.0.3
 :toc:
 
 
