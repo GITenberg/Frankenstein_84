@@ -1,8 +1,6 @@
 language: ruby
-sudo: required
 before_install:
 - gem install asciidoctor tilt
-- sudo apt-get install xsltproc
 script:
 - git clone https://github.com/sethwoodworth/asciidoctor-htmlbook.git
 - asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/
@@ -25,3 +23,7 @@ deploy:
   file: Frankenstein.epub
   on:
     repo: sethwoodworth/Frankenstein_84
+addons:
+  apt:
+    packages:
+      - xsltproc
