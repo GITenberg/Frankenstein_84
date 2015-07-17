@@ -1,0 +1,29 @@
+language: ruby
+before_install:
+- gem install asciidoctor tilt
+script:
+- git clone https://github.com/sethwoodworth/asciidoctor-htmlbook.git
+- asciidoctor -a toc -b xhtml5 -d book -T ./asciidoctor-htmlbook/htmlbook-autogen/
+  -d book Frankenstein.asciidoc -o Frankenstein.html
+- git clone https://github.com/sethwoodworth/HTMLBook
+- xsltproc -stringparam external.assets.list " " ./HTMLBook/htmlbook-xsl/epub.xsl
+  Frankenstein.html
+- cp ./HTMLBook/stylesheets/epub/epub.css OEBPS
+- cp cover.png OEBPS/cover.png
+- zip -rX Frankenstein.epub mimetype
+- zip -rX Frankenstein.epub OEBPS/ META-INF/
+branches:
+  only:
+  - master
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: fTlkV4YJXQi9skgqm5T1foEoa68r1irz0GKVyTj1TbkBCxknojYgS8wcTjgiMQECuBB8QHkTm5lFqtTm1JXWaYJ75EeMpHy+/P3Rk1NN4SE6s+aKGpdPa5KCFGE7m3PTy6q/O0ATmRMvi/KGPIfpz5qlgB+8MD8+LOuoa4ofLJ+pFfu4bv25FanyFLHIvngLALO7egHBbVzwhu1/ovw3aE6ypLDjOm5uiayTHNKuWlYi9j71/sVHDe/dsMmxQF5MHghXwpv5aKNTUYzBn5/85NbpKvDmwpKWQb8ao9HRdgU3FadXGY8SmEuGHumihe7wkiK+w4wIbgce3XnR3mWiA3lMYCT3FEaUx/tLS6VIYXLUV8jq5c4porhWNHC4/cRwF72XmfY0QyA9WpsB/b7vcqGzBwXgPw5Ar6gDEr9QpXajLyQ7YlirpYrnGqJiSvk8u0Bu6K+XEGlFm/k2IiSlybmtwEt4bDmhQ5dIzfKyFZa+y9Poa0cMJRFvixAiIHFbep90y/uessDxJ6FHdt4kRJPrFH5gQ4ARyubhRbEZ/iWMKPxLOkbeWJ/X1wO7Rs/CBFZ1U9N+r1dm8i0BCtbxl5y8SQYX04vmg+B0DyEjggqxfkwBHGnlM6tgQH8+LD3gcAr+wNyLH9T21BCd6vjzKgwUWcAi+TW4btROTwwIoaI=
+  file: Frankenstein.epub
+  on:
+    repo: sethwoodworth/Frankenstein_84
+addons:
+  apt:
+    packages:
+      - xsltproc
