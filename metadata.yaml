@@ -11,9 +11,9 @@ creator:
     url: http://www.gutenberg.org/2009/agents/61
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
 gutenberg_bookshelf:
-- Precursors of Science Fiction
 - Gothic Fiction
 - Movie Books
+- Precursors of Science Fiction
 gutenberg_issued: '1993-10-01'
 gutenberg_type: Text
 identifiers:
@@ -23,12 +23,12 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Monsters -- Fiction'
-- '!lcsh:Horror tales'
-- '!lcsh:Gothic fiction (Literary genre)'
-- '!lcsh:Frankenstein''s monster (Fictitious character) -- Fiction'
-- '!lcsh:Science fiction'
 - '!lcsh:Scientists -- Fiction'
+- '!lcsh:Science fiction'
+- '!lcsh:Monsters -- Fiction'
+- '!lcsh:Frankenstein''s monster (Fictitious character) -- Fiction'
+- '!lcsh:Gothic fiction (Literary genre)'
+- '!lcsh:Horror tales'
 - '!lcc:PR'
 - '!lcsh:Frankenstein, Victor (Fictitious character) -- Fiction'
 title: Frankenstein; Or, The Modern Prometheus
