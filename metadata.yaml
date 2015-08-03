@@ -9,8 +9,8 @@ creator:
   author:
     agent_name: Shelley, Mary Wollstonecraft
     aliases:
-    - Shelley, Mary W.
     - Shelley, Mary Wollstonecraft Godwin
+    - Shelley, Mary W.
     birthdate: 1797
     deathdate: 1851
     gutenberg_agent_id: '61'
@@ -18,8 +18,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
 gutenberg_bookshelf:
 - Gothic Fiction
-- Movie Books
 - Precursors of Science Fiction
+- Movie Books
 gutenberg_issued: '1993-10-01'
 gutenberg_type: Text
 identifiers:
@@ -29,13 +29,13 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Scientists -- Fiction'
-- '!lcsh:Science fiction'
-- '!lcsh:Monsters -- Fiction'
-- '!lcsh:Frankenstein''s monster (Fictitious character) -- Fiction'
-- '!lcsh:Gothic fiction (Literary genre)'
-- '!lcsh:Horror tales'
-- '!lcc:PR'
-- '!lcsh:Frankenstein, Victor (Fictitious character) -- Fiction'
+- '!lcsh: Science fiction'
+- '!lcsh: Horror tales'
+- '!lcsh: Monsters -- Fiction'
+- '!lcsh: Scientists -- Fiction'
+- '!lcsh: Frankenstein''s monster (Fictitious character) -- Fiction'
+- '!lcsh: Frankenstein, Victor (Fictitious character) -- Fiction'
+- '!lcc: PR'
+- '!lcsh: Gothic fiction (Literary genre)'
 title: Frankenstein; Or, The Modern Prometheus
 url: http://www.gutenberg.org/ebooks/84
