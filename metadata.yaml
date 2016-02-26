@@ -1,5 +1,5 @@
 _repo: Frankenstein_84
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Luis Prado, 2015
   cover_type: original
@@ -39,5 +39,6 @@ subjects:
 - '!lcsh: Frankenstein, Victor (Fictitious character) -- Fiction'
 - '!lcc: PR'
 - '!lcsh: Gothic fiction (Literary genre)'
+- GITenberg
 title: Frankenstein; Or, The Modern Prometheus
 url: http://www.gutenberg.org/ebooks/84
