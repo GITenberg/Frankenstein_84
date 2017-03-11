@@ -1,5 +1,5 @@
 _repo: Frankenstein_84
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Luis Prado, 2015
   cover_type: original
@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '61'
     url: http://www.gutenberg.org/2009/agents/61
     wikipedia: http://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/84#Frankenstein
 gutenberg_bookshelf:
 - Gothic Fiction
 - Precursors of Science Fiction
